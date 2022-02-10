@@ -4,6 +4,7 @@ import '../widgets/search_bar.dart';
 import '../widgets/top_flavours.dart';
 import '../widgets/top_section.dart';
 import '../widgets/popular_ice_cream.dart';
+import '../widgets/top_item.dart';
 
 class HomePage extends StatelessWidget{
   const HomePage({Key? key}) : super(key: key);
@@ -21,6 +22,7 @@ class HomePage extends StatelessWidget{
               SearchBar(),
               TopFlavours(),
               PopularIceCream(),
+              TopItem(),
             ],
               ),
         ),
