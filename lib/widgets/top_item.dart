@@ -72,7 +72,7 @@ class TopIceCreamItem extends StatelessWidget {
             child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Text('\$$price'),
+                  Text('\$$price', style: TextStyle(fontSize: 18)),
                   Container(decoration: BoxDecoration(color: Theme.of(context).primaryColor, borderRadius: BorderRadius.circular(50)), child: IconButton(icon: Icon(Icons.add), onPressed:(){}, color: Colors.white)),
                 ],
                 ),
