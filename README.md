@@ -1,16 +1,5 @@
-# ice_cream
+# Flutter Ice Cream App
 
-A new Flutter project.
+Daha yaklaşık 2 haftadır Flutter çalışıyorum Navigation gibi konuları bilmediğim için 2.sayfayı yapmadım. Yaptığım tasarımı da son gün başlayıp bitirdim staj tarihin 10 şubat olduğunu bilmiyordum gördüğüm gibi yapmaya başladım. Tasarım sayfasında görseller ayrı olarak verilmediği için o kısımlara Container koydum. Font'u da bilmediğim için en benzer bir font koydum Google Fonts paketi ile. Text değerlerini çoğu yerde hardcoded olarak yazdım kodun refactore ihtiyacı olduğunu biliyorum ama yine de bu şekilde göstermek istiyorum takdir sizin.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App](app.gif)
