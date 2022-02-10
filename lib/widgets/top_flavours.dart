@@ -13,7 +13,7 @@ class TopFlavours extends StatelessWidget {
           style: TextStyle(fontSize: 25),
         ),
         Container(
-            margin: EdgeInsets.only(top: 10),
+            margin: EdgeInsets.symmetric(vertical: 10),
             height: 200,
             color: Color(0xFFFFD8DC),
             child: Padding(
