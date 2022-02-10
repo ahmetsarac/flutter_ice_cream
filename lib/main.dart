@@ -13,9 +13,9 @@ class IceCreamApp extends StatelessWidget{
   Widget build(BuildContext context){
     return MaterialApp(
       theme: ThemeData(
-         primaryColor: Colors.pink,
+         primaryColor: Color(0xFFFB4389),
          primarySwatch: Colors.pink,
-         fontFamily: GoogleFonts.indieFlower().fontFamily,
+         fontFamily: GoogleFonts.shipporiAntique().fontFamily,
       ),
       title: 'Ice Cream App',
       home: const Scaffold(

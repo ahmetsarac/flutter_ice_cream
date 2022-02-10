@@ -11,7 +11,7 @@ class TopSection extends StatelessWidget {
         Column(
             crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text('Hey Emma', style: TextStyle(fontSize: 30)),
+            const Text('Hey Emma', style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
             Text('What flavor do you like to eat?', style: TextStyle(color: Colors.grey[600])),
           ],
         ),
