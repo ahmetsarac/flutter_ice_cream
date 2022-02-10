@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../widgets/search_bar.dart';
 import '../widgets/top_section.dart';
 
 class HomePage extends StatelessWidget{
@@ -13,6 +14,7 @@ class HomePage extends StatelessWidget{
         child: Column(
           children: [
             TopSection(),
+            SearchBar(),
           ],
             ),
       ),
